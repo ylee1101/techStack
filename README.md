@@ -1,0 +1,1 @@
+TECH STACK with React native & Redux
